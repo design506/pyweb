@@ -15,3 +15,7 @@ print(d1)
 
 for s in [s1, s2, s3, s4]:
     print("s====>", s, s.title, getattr(s, 'title'))
+
+
+
+print("git test")
